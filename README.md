@@ -14,7 +14,7 @@ Actualmente estoy cursando el tercer semestre de la mencionada carrera y busco u
 - Lógica de programación
 
 ##  Proyectos destacados
-Aquí encontrarás proyectos académicos desarrollados durante mi formación, enfocados en:
+
 - Proyecto Integrador de figura profesional
 - Prácticas de programación
 - Aplicaciones básica
