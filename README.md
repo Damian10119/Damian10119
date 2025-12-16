@@ -1,4 +1,4 @@
-# 👋 Hola, soy Damian Alejandro Pillajo Gualoto
+# Hola, soy Damian Alejandro Pillajo Gualoto
 
 Estudiante de Tecnología en Desarrollo de Software  
 Quito, Ecuador  
